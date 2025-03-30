@@ -17,18 +17,14 @@ Neural Beats is an AI-driven music recommender system that personalizes song rec
 - **Personalized Recommendations**: Suggests songs based on past listening history.
 - **Genre Classification**: Categorizes songs into different music genres using AI.
 - **Trending Music Insights**: Displays popular and trending songs.
-- **User Feedback Integration**: Continuously improves recommendations based on user ratings and skips.
-- **Collaborative Filtering**: Suggests songs based on similar users' preferences.
+- **Collaborative Filtering**: Suggests songs based on similar artists.
 
 ---
 
 ## 🧠 Technologies Used
 - **Programming Language**: Python
-- **Machine Learning Framework**: TensorFlow / PyTorch
+- **Machine Learning Framework**: TensorFlow 
 - **Data Processing**: Pandas, NumPy
-- **Music Data APIs**: Spotify API, Last.fm API
-- **Frontend (Optional)**: React.js for UI
-- **Database**: PostgreSQL / Firebase
 
 ---
 
