@@ -22,23 +22,6 @@ Neural Beats is an AI-driven music recommender system that personalizes song rec
 
 ---
 
-## 🏗️ Project Structure
-```plaintext
-Neural_Beats/
-│── data/                 # Dataset and processed data files
-│── models/               # Trained deep learning models
-│── notebooks/            # Jupyter Notebooks for experimentation
-│── src/                  # Source code for the recommender system
-│   ├── data_preprocessing.py  # Data cleaning and feature engineering
-│   ├── model_training.py      # Training deep learning models
-│   ├── recommendation.py      # Generating song recommendations
-│   ├── app.py                 # Web application backend
-│── requirements.txt      # Dependencies and packages
-│── README.md            # Project documentation
-```
-
----
-
 ## 🧠 Technologies Used
 - **Programming Language**: Python
 - **Machine Learning Framework**: TensorFlow / PyTorch
